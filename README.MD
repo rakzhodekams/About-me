@@ -15,15 +15,15 @@
   ```
   Someone will can you today. 
   ```
-11. The probability is one to many, and any brain can make the relations between that afirmation, assocating meaning (abstraction / creativity / imagination) to explain that probability, which can is in fact, logical. Call it Mystical.. :p 
+11. The probability is one to many, and any brain can make the relations between that afirmation, associating meaning (abstraction / creativity / imagination) to explain that probability, which can be in fact, logical. Call it Mystical.. :p 
 
 # Here is what Monkey is doing in github:
 
 00. Everything in Monkey Brain can be simplified like in this [link](https://github.com/odicforcesounds/The-Challenge)
-01. Host website: https://art.odicforcesounds.com 
-02. Host Offensive Challenge based on website License: https://wiki.odicforcesounds.com 
+01. Host main [website](https://art.odicforcesounds.com)
+02. Host Challenge based on website [License](https://wiki.odicforcesounds.com)
 03. Host more creative content promoting Odicforcesounds Music  ( ALL FREE to DOWNLOAD ) - check: MonkeyBooks 
-04. Host monkey developer blog ( devblog ) 
+04. Host monkey developer blog ( devblog )  
 05. Some Youtube Linux tutorials in portuguese. ( bla bla bla ) 
 06. Host other projects 
 07. Save my own configurations of linux stuff.
